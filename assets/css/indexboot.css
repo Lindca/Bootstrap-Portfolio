@@ -29,8 +29,6 @@ p{font-size: 20px;
     padding: 5px;
     margin-top: 5px;
 }
-.card-img-top{float: left;
-}
 .bg-light a:hover{color:#f9585e;
 }
 .bio{
@@ -40,8 +38,6 @@ p{font-size: 20px;
     padding: 5px;
 }
 .table{margin: auto;
-
-
 }
 .list-group-item{background-color: #51a0c9;
     font-family: 'Gugi', cursive;
@@ -58,4 +54,12 @@ p{font-size: 20px;
     text-align: center;
     margin: 20px auto;
     background-color: #51a0c9;
+}
+.card{
+    display: flex;
+    width: 300px;
+    margin: 10px;
+    border: none;
+    padding: 0;
+    align-content: center;
 }
