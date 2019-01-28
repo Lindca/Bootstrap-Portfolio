@@ -19,20 +19,17 @@ body{background-image: url("../images/geometry.jpg ");
 }
 h1{background-color: #51a0c9;
     font: black; 
-    border: 3px solid #f99605;
     font-family: 'Gugi', cursive;
     font-size: 35px;
 }
 p{font-size: 20px;
     background-color: #51a0c9;
     font: black; 
-    border: 3px solid #f99605;
     font-family: 'Gugi', cursive;
     padding: 5px;
     margin-top: 5px;
 }
 .card-img-top{float: left;
-    border: 3px solid #f99605;
 }
 .bg-light a:hover{color:#f9585e;
 }
@@ -47,15 +44,18 @@ p{font-size: 20px;
 
 }
 .list-group-item{background-color: #51a0c9;
-    border: 3px solid #f99605;
     font-family: 'Gugi', cursive;
     font-size: 20px;
     text-align: center;
     align-content: center;
 }
 .form-group{font-size: 20px;
-    background-color: #51a0c9;
     font: black; 
     padding: 5px;
-    border: 3px solid #f99605;
+}
+.jumbotron{
+    max-width: 80%;
+    text-align: center;
+    margin: 20px auto;
+    background-color: #51a0c9;
 }
