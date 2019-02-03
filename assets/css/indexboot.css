@@ -27,6 +27,7 @@ h1{background-color: #51a0c9;
 }
 .container1{
     display: flex;
+    height: 500px;
 }
 .card{
     width: 300px;
@@ -34,4 +35,11 @@ h1{background-color: #51a0c9;
     border: none;
     padding: 0;
     display: inline-block;
+}
+.mypic{
+    min-width: 350px;
+    margin-left: 20px;
+}
+.bio{
+    margin-right: 20px;
 }
