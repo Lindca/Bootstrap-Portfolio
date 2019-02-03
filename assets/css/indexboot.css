@@ -29,9 +29,9 @@ h1{background-color: #51a0c9;
     display: flex;
 }
 .card{
-    display: inline-block;
     width: 300px;
     margin: 10px;
     border: none;
-    padding: 0; 
+    padding: 0;
+    display: inline-block;
 }
